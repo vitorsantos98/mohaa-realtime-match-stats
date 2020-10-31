@@ -1,2 +1,2 @@
-# mohaa-realttime-match-stats
+# Real Time Match Stats for MOHAA
 Real Time Match Stats
